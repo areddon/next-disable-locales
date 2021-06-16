@@ -10,7 +10,7 @@ class MyDocument extends Document {
   render() {
     console.log(this.props)
     return (
-      <Html className="security--theme--g100" lang="cn" dir="ltr">
+      <Html lang="cn">
         <Head />
         <body>
           <Main />
