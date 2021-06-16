@@ -474,24 +474,6 @@ convert-source-map@1.7.0:
   dependencies:
     safe-buffer "~5.1.1"
 
-cookie-parser@^1.4.5:
-  version "1.4.5"
-  resolved "https://na.artifactory.swg-devops.com/artifactory/api/npm/wcp-carbon-npm-virtual/cookie-parser/-/cookie-parser-1.4.5.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fcookie-parser%2F-%2Fcookie-parser-1.4.5.tgz#3e572d4b7c0c80f9c61daf604e4336831b5d1d49"
-  integrity sha1-PlctS3wMgPnGHa9gTkM2gxtdHUk=
-  dependencies:
-    cookie "0.4.0"
-    cookie-signature "1.0.6"
-
-cookie-signature@1.0.6:
-  version "1.0.6"
-  resolved "https://na.artifactory.swg-devops.com/artifactory/api/npm/wcp-carbon-npm-virtual/cookie-signature/-/cookie-signature-1.0.6.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fcookie-signature%2F-%2Fcookie-signature-1.0.6.tgz&dl=https%3A%2F%2Fna-sl.artifactory.swg-devops.com%3A443%2Fartifactory%2Fapi%2Fnpm%2Ftaas-central-npm-virtual%2Fcookie-signature%2F-%2Fcookie-signature-1.0.6.tgz%3Fdl%3Dhttps%3A%2F%2Fregistry.npmjs.org%2Fcookie-signature%2F-%2Fcookie-signature-1.0.6.tgz#e303a882b342cc3ee8ca513a79999734dab3ae2c"
-  integrity sha1-4wOogrNCzD7oylE6eZmXNNqzriw=
-
-cookie@0.4.0:
-  version "0.4.0"
-  resolved "https://na.artifactory.swg-devops.com/artifactory/api/npm/wcp-carbon-npm-virtual/cookie/-/cookie-0.4.0.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fcookie%2F-%2Fcookie-0.4.0.tgz#beb437e7022b3b6d49019d088665303ebe9c14ba"
-  integrity sha1-vrQ35wIrO21JAZ0IhmUwPr6cFLo=
-
 core-js@^3:
   version "3.14.0"
   resolved "https://na.artifactory.swg-devops.com/artifactory/api/npm/wcp-carbon-npm-virtual/core-js/-/core-js-3.14.0.tgz?dl=https%3A%2F%2Fregistry.npmjs.org%2Fcore-js%2F-%2Fcore-js-3.14.0.tgz#62322b98c71cc2018b027971a69419e2425c2a6c"
